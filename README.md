@@ -1,3 +1,2 @@
 # newline-test
 b
-b
