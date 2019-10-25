@@ -10,4 +10,4 @@ jobs:
       - uses: actions/checkout@master
       - uses: Logerfo/newline-action@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
